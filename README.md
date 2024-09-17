@@ -10,3 +10,5 @@
 Ссылка на резюме:
 
 Контактные данные:
+
+Тестовое задание: https://github.com/GritElena/Test-Yandex/blob/main/Тестовое%20задание
